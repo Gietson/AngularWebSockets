@@ -1,6 +1,6 @@
 # AngularWebSockets
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+This project shows how to connecting Angular 5 with Node.js through WebSockets to stream data from server to clients.
 
 ## How to Use It
 
